@@ -1,4 +1,4 @@
-Find Tune with no File in iTunes
+Find Tunes with no File in iTunes.
 
 This is a little project written in Java that parses iTunes xml library and finds tunes that have broken links.
 
