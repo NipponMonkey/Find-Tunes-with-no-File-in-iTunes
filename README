@@ -1,0 +1,9 @@
+Find Tune with no File in iTunes
+
+This is a little project written in Java that parses iTunes xml library and finds tunes that have broken links.
+
+This is useful as it seems that iTunes gives no way for a user to quickly find these tunes.
+
+This could be extended to change the xml library which should automatically get rid of the unwanted broken tunes. (No test this though)
+
+This project was an excuse to use Java and GitHub a little more.
